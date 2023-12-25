@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 SMTP_SERVER = "smtp-broadcasts.postmarkapp.com"
 SMTP_PORT = 2525
 SMTP_USERNAME = "*"
-SMTP_PASSWORD = "*"
+SMTP_PASSWORD = ""
 SMTP_HEADER = "X-PM-Message-Stream: broadcast"
 
 

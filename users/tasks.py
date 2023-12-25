@@ -6,8 +6,8 @@ from email.mime.text import MIMEText
 # Replace these with your own Postmarkapp SMTP server credentials
 SMTP_SERVER = "smtp-broadcasts.postmarkapp.com"
 SMTP_PORT = 2525
-SMTP_USERNAME = "431bf003-7e6d-485b-8412-8aec9e2f2565"
-SMTP_PASSWORD = "431bf003-7e6d-485b-8412-8aec9e2f2565"
+SMTP_USERNAME = "*"
+SMTP_PASSWORD = "*"
 SMTP_HEADER = "X-PM-Message-Stream: broadcast"
 
 
